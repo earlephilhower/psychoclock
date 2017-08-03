@@ -1,0 +1,13 @@
+D8 BCLK
+D7 butt
+D6 butt
+D5 butt
+D4 LRCLK
+D3 LEDCLK
+D2 LEDCS
+D1 LEDDIN
+RX DIN
+3V
+5V
+GND
+
